@@ -41,7 +41,7 @@ In this work, we propose **Tree-Gate Proximal Policy Optimization (TGPPO)**, a n
 
 The datasets used for training and evaluation (Set Cover, Combinatorial Auction, Capacitated Facility Location, and MIPLIB) are available for download.
 
-👉 **[Download Datasets via [Provider Name]]([INSERT_YOUR_LINK_HERE](https://data.mendeley.com/datasets/8msnxmvdgp/1))**
+👉 **[Download Datasets from here](https://data.mendeley.com/datasets/8msnxmvdgp/1)**
 
 ## 🛠️ Installation
 
