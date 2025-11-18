@@ -19,7 +19,7 @@
 
 **The version of the paper in the AAAI proceedings does not include the appendix due to page limits.**
 
-You can download the full paper—including detailed proofs, hyperparameter sweep details, and additional reward formulations—directly from this repository:
+You can download the full paper—including detailed reward formulations and additional results from the arxiv version or directly from this repository:
 
 👉 **[Download Extended Version (PDF)](https://arxiv.org/pdf/2511.12986)**
 
