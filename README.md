@@ -3,7 +3,7 @@
 **Accepted to the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**
 
 [![AAAI](https://img.shields.io/badge/AAAI-2026-blue)](https://aaai.org/)
-[![arXiv](https://img.shields.io/badge/arXiv-TBD-b31b1b.svg)](https://arxiv.org/abs/2511.12986)
+[![arXiv](https://img.shields.io/badge/arXiv-<2511.12986>-<green>.svg)](https://arxiv.org/abs/2511.12986)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
