@@ -64,3 +64,20 @@ conda activate tgppo
 # Ensure SCIP_HOME is set if PyScipOpt fails to find the library
 pip install -r requirements.txt
 ```
+
+---
+
+## 🖊️ Citation
+
+If you find our work or code useful in your research, please consider citing our paper.
+
+**Note:** This paper has been accepted to **AAAI 2026**. Until the conference proceedings are published, please cite the arXiv version:
+
+```bibtex
+@article{benmhamed2025tgppo,
+  title={TGPPO: Learning Branching Policies for MILPs with Proximal Policy Optimization},
+  author={Ben Mhamed, Abdelouahed and Kamal-Idrissi, Assia and Seghrouchni, Amal El Fallah},
+  journal={arXiv preprint arXiv:2511.12986},
+  year={2025},
+  note={Accepted to the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)}
+}
