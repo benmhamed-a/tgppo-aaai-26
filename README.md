@@ -47,11 +47,11 @@ In this work, we propose **Tree-Gate Proximal Policy Optimization (TGPPO)**, a n
 ### Setup
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/yourusername/tgppo-aaai-26.git](https://github.com/yourusername/tgppo-aaai-26.git)
-cd tgppo-aaai-26
+git clone https://github.com/benmhamed-a/tgppo-aaai-26.git
+cd tgppo-aaai-26/code
 
 # 2. Create a virtual environment
-conda create -n tgppo python=3.9
+conda create -n tgppo python=3.8
 conda activate tgppo
 
 # 3. Install dependencies
