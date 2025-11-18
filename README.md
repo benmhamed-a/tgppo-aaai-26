@@ -3,7 +3,7 @@
 **Accepted to the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**
 
 [![AAAI](https://img.shields.io/badge/AAAI-2026-blue)](https://aaai.org/)
-[![arXiv](https://img.shields.io/badge/arXiv-TBD-b31b1b.svg)](https://arxiv.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-TBD-b31b1b.svg)](https://arxiv.org/abs/2511.12986)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
@@ -21,7 +21,7 @@
 
 You can download the full paper—including detailed proofs, hyperparameter sweep details, and additional reward formulations—directly from this repository:
 
-👉 **[Download Extended Version (PDF)](./TGPPO_Extended.pdf)**
+👉 **[Download Extended Version (PDF)](https://arxiv.org/pdf/2511.12986)**
 
 *(Note: The official arXiv link will be updated here shortly.)*
 
@@ -57,3 +57,4 @@ conda activate tgppo
 # 3. Install dependencies
 # Ensure SCIP_HOME is set if PyScipOpt fails to find the library
 pip install -r requirements.txt
+```
